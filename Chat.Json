@@ -1,0 +1,30 @@
+{
+    "ServerStatus": "Online",
+    "Users": [
+        {
+            "Name": "Putita",
+            "Online": false,
+            "LastActive": 354
+        },
+        {
+            "Name": "Lauret",
+            "Online": true,
+            "LastActive": 0
+        },
+        {
+            "Name": "Kim",
+            "Online": true,
+            "LastActive": 0
+        },
+        {
+            "Name": "Aaron",
+            "Online": true,
+            "LastActive": 0
+        },
+        {
+            "Name": "Anthony",
+            "Online": true,
+            "LastActive": 0
+        }
+    ]
+}
